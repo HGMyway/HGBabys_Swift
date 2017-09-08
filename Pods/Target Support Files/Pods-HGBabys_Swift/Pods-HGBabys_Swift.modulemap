@@ -1,0 +1,6 @@
+framework module Pods_HGBabys_Swift {
+  umbrella header "Pods-HGBabys_Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

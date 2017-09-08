@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.5.0)
+  - SnapKit (3.2.0)
+  - Toaster (2.0.4)
+  - UMengAnalytics-NO-IDFA (4.2.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5.0)
+  - SnapKit (~> 3.2.0)
+  - Toaster (~> 2.0.4)
+  - UMengAnalytics-NO-IDFA (~> 4.2.5)
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  Toaster: f13031c636ef065281bc11857be9a16c7659e04f
+  UMengAnalytics-NO-IDFA: 16666e32edce5be44ae5b14aaaa7f3582e09d6ab
+
+PODFILE CHECKSUM: bd6e32a05a3d9dd255dfba0756e5e00482d02449
+
+COCOAPODS: 1.3.1
